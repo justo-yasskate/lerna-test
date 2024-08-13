@@ -3,5 +3,5 @@
 module.exports = alohaWorld;
 
 function alohaWorld() {
-  return 'Hello from alohaWorld';
+  return 'Aloha from alohaWorld';
 }
