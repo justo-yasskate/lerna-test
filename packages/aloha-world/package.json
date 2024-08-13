@@ -1,5 +1,5 @@
 {
-  "name": "aloha-world",
+  "name": "@justomx/aloha-world",
   "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Yasser Batas <yasser.batas@gmail.com>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/justo-yasskate/lerna-test/issues"
-  }
+  },
+  "gitHead": "f88c17d9ea06824eaa7785b86330f68164dce2ff"
 }
