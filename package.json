@@ -2,8 +2,8 @@
   "name": "root",
   "private": true,
   "workspaces": [
-    "aloha-world/*",
-    "hello-world/*"
+    "./aloha-world/",
+    "./hello-world/"
   ],
   "dependencies": {},
   "devDependencies": {
